@@ -18,6 +18,7 @@
   "homepage": "https://github.com/kalib-hicks/SocialNetworkAPI#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.12.11"
+    "mongoose": "^5.12.11",
+    "node": "^16.1.0"
   }
 }
